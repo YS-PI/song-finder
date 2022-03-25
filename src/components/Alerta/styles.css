@@ -1,0 +1,6 @@
+.alert {
+  font-family: var(--red-hat);
+  font-weight: 900;
+  color: var(--dark-blue);
+  padding: 0 20px;
+}
